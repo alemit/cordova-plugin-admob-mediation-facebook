@@ -5,8 +5,7 @@
     "cordova": {
         "id": "cordova-plugin-admob-mediation-facebook",
         "platforms": [
-            "android",
-            "ios"
+            "android"
         ]
     },
     "repository": {
@@ -16,7 +15,6 @@
     "keywords": [
         "ecosystem:cordova",
         "cordova-android",
-        "cordova-ios",
         "cordova",
         "plugin",
         "ad",
